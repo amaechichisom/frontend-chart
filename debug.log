@@ -1,0 +1,21 @@
+[1010/185716.163:ERROR:settings.cc(430)] Settings version is not 5
+[1010/190716.214:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PROGRESSIVE\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\cfafeff2-d213-4078-928c-d502996a4bde: The system cannot find the path specified. (0x3)
+[1010/190716.214:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1202/155036.170:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/230337.353:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/125627.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.211:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 13452 not found in process
+[1216/125627.195:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.180:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.242:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.242:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 11356 not found in process
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 11224 not found in process
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 12948 not found in process
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 13952 not found in process
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 7432 not found in process
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 13704 not found in process
+[1216/125627.258:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1216/125627.258:ERROR:exception_snapshot_win.cc(99)] thread ID 13964 not found in process

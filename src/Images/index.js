@@ -1,0 +1,21 @@
+export const Images = {
+    facebook: require('./lernen-facebook.png'),
+    google: require('./lernen-google.png'),
+    AboutImageOne: require('./about-image-1.png'),
+    AboutImageTwo: require('./about-image-2.png'),
+    AboutImage: require('./about-image.png'),
+    brandPosition: require('./brand-positioning.png'),
+    dashboard: require('./dashboard.png'),
+    userSentiment: require('./emoticons.png'),
+    hashTag: require('./hashtag.png'),
+    heroImageSide: require('./hero__image__side.png'),
+    heroImage: require('./hero__image.png'),
+    homeBackground: require('./home__background.png'),
+    imagesResource: require('./images-resource.png'),
+    machineLearning: require('./machine-learning.png'),
+    mention: require('./mention.png'),
+    notification: require('./notification.png'),
+    twitter: require('./twitter.png'),
+    worksObject: require('./works-object.png'),
+    backgroundSection: require('./first-section.png')
+}
